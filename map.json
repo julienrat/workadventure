@@ -133,6 +133,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/aavCdmoihYY"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
