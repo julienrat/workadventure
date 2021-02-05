@@ -137,7 +137,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"autoplay=1"
+                 "value":"autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
